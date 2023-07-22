@@ -1,1 +1,0 @@
-cmd /k "frpc.exe -c frpc.ini"
